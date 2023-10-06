@@ -1,3 +1,4 @@
+package Exercise02;
 
 public class Example2_unsynchronized {
     public static void main(String[] args) {

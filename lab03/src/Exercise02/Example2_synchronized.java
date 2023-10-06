@@ -1,3 +1,5 @@
+package Exercise02;
+
 public class Example2_synchronized {
     public static void main(String[] args) {
         ResourceUser t1 = new ResourceUser("t1");

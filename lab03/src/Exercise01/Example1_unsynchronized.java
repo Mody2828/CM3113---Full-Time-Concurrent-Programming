@@ -1,3 +1,5 @@
+package Exercise01;
+
 public class Example1_unsynchronized {
     public static void main(String[] args) {
         Counter counter1 = new Counter();

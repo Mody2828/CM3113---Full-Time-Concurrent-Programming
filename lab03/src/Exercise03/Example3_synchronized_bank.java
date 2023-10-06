@@ -1,4 +1,6 @@
+package Exercise03;
 // 1- Added the synchronized keyword to the transfer and test methods to ensure that only one thread can execute them at a time.
+
 // 2- Removed the unnecessary empty catch blocks for InterruptedException. It's good practice to at least print a message or log the exception
 
 public class Example3_synchronized_bank {

@@ -1,3 +1,4 @@
+package Exercise05;
 
 //  private static AtomicInteger N = new AtomicInteger(0); - Replaced the int N with an AtomicInteger.
 // N.incrementAndGet(); - Used incrementAndGet() method of AtomicInteger to ensure atomic updates

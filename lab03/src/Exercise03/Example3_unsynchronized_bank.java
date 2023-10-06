@@ -1,3 +1,4 @@
+package Exercise03;
 
 public class Example3_unsynchronized_bank {
     public static void main(String[] args) {
