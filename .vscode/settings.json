@@ -2,7 +2,8 @@
     "java.debug.settings.onBuildFailureProceed": true,
     "java.project.sourcePaths": [
         "lab03/src",
+        "lab02/src",
         "lab01/src",
-        "lab02/src"
+        "lab04/src/lab04"
     ]
 }
