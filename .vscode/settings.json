@@ -4,7 +4,11 @@
         "lab03/src",
         "lab02/src",
         "lab01/src",
+<<<<<<< HEAD
         "Test/src",
         "lab01_soluation/lab01/src/lab01"
+=======
+        "lab04/src/lab04"
+>>>>>>> 39fd7e4b5a4f817c4011fb3141a5d8061cf93cde
     ]
 }
