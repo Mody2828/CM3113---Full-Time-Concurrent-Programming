@@ -5,7 +5,7 @@ public class Ex2 {
         MyThread t1 = new MyThread("t1");
         MyThread t2 = new MyThread("t2");
         // Exercise 2 (c) Make the threads daemon threads
-        t0.setDaemon(true);
+
         t1.setDaemon(true);
         t2.setDaemon(true);
         // Exercise 2 (d) pause the main method
